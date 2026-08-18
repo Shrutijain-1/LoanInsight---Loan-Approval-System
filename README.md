@@ -4,7 +4,7 @@ LoanInsight is a Streamlit web app that predicts loan eligibility using a machin
 
 ## 🔗 Live Demo
 
-[View deployed app](https://your-app-link-here.streamlit.app)
+https://loaninsight-predictor.streamlit.app
 
 ## Features
 
@@ -44,7 +44,7 @@ Categorical fields (Gender, Married, Dependents, Education, Self Employed, Prope
 
 1. Clone the repository and navigate into the project folder.
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Shrutijain-1/LoanInsight---Loan-Approval-System.git
    cd your-repo-name
    ```
 2. Create and activate a virtual environment (recommended):
